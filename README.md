@@ -1,7 +1,3 @@
-Berikut adalah penjelasan yang bisa Anda tulis dalam file `README.md` di GitHub untuk menjelaskan program ini secara mendetail:
-
----
-
 # Program Sederhana untuk Menambah Data Mahasiswa dan Menghitung Nilai Akhir
 
 ## Deskripsi Program
@@ -128,33 +124,3 @@ Flowchart berikut menggambarkan proses kerja program ini:
    - Jika `Tidak`: Lanjutkan ke langkah berikutnya
 6. **Tampilkan Data dalam Tabel**
 7. **Selesai**
-
-## Cara Menjalankan Program
-1. Pastikan Anda memiliki Python terinstal di komputer Anda.
-2. Buka terminal atau command prompt.
-3. Jalankan program dengan perintah berikut:
-   ```bash
-   python nama_file.py
-   ```
-4. Ikuti instruksi pada layar untuk memasukkan data mahasiswa.
-
-## Cara Menggunakan Repository
-1. Clone repository ini ke komputer Anda dengan perintah:
-   ```bash
-   git clone <URL-repo-anda>
-   ```
-2. Buka folder repository yang sudah diclone.
-3. Edit program jika perlu.
-4. Commit perubahan Anda:
-   ```bash
-   git add .
-   git commit -m "Menambahkan program input data mahasiswa"
-   ```
-5. Push ke repository GitHub:
-   ```bash
-   git push origin main
-   ```
-
----
-
-Dengan penjelasan ini, orang lain dapat memahami cara kerja program, menjalankannya, dan menavigasi kode serta alur logikanya dengan lebih mudah.
