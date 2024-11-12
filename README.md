@@ -1,3 +1,7 @@
+Berikut adalah penjelasan yang bisa Anda tulis dalam file `README.md` di GitHub untuk menjelaskan program ini secara mendetail:
+
+---
+
 # Program Sederhana untuk Menambah Data Mahasiswa dan Menghitung Nilai Akhir
 
 ## Deskripsi Program
